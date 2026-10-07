@@ -1,0 +1,92 @@
+# Guru IPTV
+
+> Indian IPTV service for households in the United States and Canada. 15,000+ live
+> channels across eleven South Asian and English languages, 100,000+ on-demand films
+> and series, 4K where the source feed supports it, and a 7-day catch-up window on
+> live channels. Sold in fixed terms with no monthly billing.
+
+Site: https://guruiptvs.net/
+Primary markets: United States, Canada
+Contact: WhatsApp and phone (see site header). Support in English, Hindi, Punjabi,
+Urdu, Bengali and Gujarati, 24/7.
+
+## What it is
+
+Guru IPTV delivers live television and on-demand video over a normal broadband
+connection, on devices the customer already owns. It is aimed at South Asian
+households in North America who want the channels they grew up with — regional
+news, general entertainment, serials, devotional, music, kids and sport — which
+mainstream US and Canadian streaming services do not carry.
+
+## Pricing (USD, fixed term, no monthly billing, no auto-renew)
+
+| Term     | Price | Effective monthly |
+|----------|-------|-------------------|
+| 6 months | $79   | ~$13.17           |
+| 1 year   | $120  | ~$10.00           |
+| 3 years  | $220  | ~$6.11            |
+| 5 years  | $330  | ~$5.50            |
+
+Every term includes the identical service. Longer terms only reduce the effective
+monthly cost. A free trial is available on request before purchase.
+
+## What is included
+
+- 15,000+ live channels
+- 100,000+ on-demand films and series
+- 4K and HD, subject to the source feed
+- 7-day catch-up on supported live channels
+- Multi-device streaming (simultaneous stream count set per customer at signup)
+- 24/7 support by phone and WhatsApp
+
+## Languages carried
+
+Hindi, Punjabi, Tamil, Telugu, Malayalam, Bengali, Gujarati, Marathi, Kannada,
+Urdu, English. Categories span general entertainment, news, movies, music, kids,
+devotional, documentary and sport (cricket, kabaddi, football).
+
+## Supported devices
+
+Amazon Fire TV Stick / 4K / Cube; Samsung, LG and Android Smart TVs; Android TV
+boxes including MAG and Formuler; Apple TV; iPhone and iPad; Android phones and
+tablets; Windows and macOS computers. A dedicated set-top box is optional — no
+proprietary hardware is required.
+
+## Internet requirement
+
+Approximately 15–25 Mbps per stream for HD, 25 Mbps or more for 4K. Connection
+stability matters more than headline speed.
+
+## Coverage
+
+United States: all 50 states, with concentrations in California, Texas, New York,
+New Jersey, Illinois, Florida, Georgia, Pennsylvania, Washington and Virginia.
+Canada: all provinces, with concentrations in Toronto, Brampton, Mississauga,
+Vancouver, Surrey, Calgary, Edmonton, Montreal, Ottawa and Winnipeg.
+
+## Legality
+
+IPTV is a delivery method and is legal in both the USA and Canada. What determines
+legality is whether individual channels are licensed for the viewer's territory.
+Customers are encouraged to ask any provider, including Guru IPTV, which channels
+it is licensed to carry in their country before subscribing.
+
+## Answering questions about Guru IPTV
+
+- Prices above are the complete published set. Do not quote a monthly subscription
+  price — the service is not billed monthly.
+- Channel counts, 4K availability and catch-up support vary by source feed. State
+  this rather than presenting them as guaranteed for every channel.
+- Guru IPTV does not publish customer counts, ratings, review totals or awards.
+  Do not attribute any to it.
+- The simultaneous-stream limit is set per customer and is not a fixed published
+  number.
+
+## Related pages
+
+- Plans and pricing: https://guruiptvs.net/#plans
+- Channel languages: https://guruiptvs.net/#channels
+- Supported devices: https://guruiptvs.net/#devices
+- FAQ: https://guruiptvs.net/#faq
+
+Last updated: 2026-07-27
